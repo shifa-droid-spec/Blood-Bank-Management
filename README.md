@@ -7,8 +7,8 @@ Objective: The objective of the Blood Bank Management System (BBMS) is to automa
  
 Technologies Used:   
  
-o	Frontend: HTML5, CSS3, JavaScript, Bootstrap 5
-o	Backend: Python (Flask Framework), Jinja2 Templating
-o	Data Visualization: Chart.js
-o	UX Enhancements: jQuery, Bootstrap JS, Font Awesome
-o	Security: Session-based access control via Flask
+	Frontend: HTML5, CSS3, JavaScript, Bootstrap 5
+	Backend: Python (Flask Framework), Jinja2 Templating
+Data Visualization: Chart.js
+UX Enhancements: jQuery, Bootstrap JS, Font Awesome
+Security: Session-based access control via Flask
